@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Luiz Fernando 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Frontend+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+intelig%C3%AAncia+artificial;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F7&center=true&vCenter=true&width=550&lines=Desenvolvedor+Frontend+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
